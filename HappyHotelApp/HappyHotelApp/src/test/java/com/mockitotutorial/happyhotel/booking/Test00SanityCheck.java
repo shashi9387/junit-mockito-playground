@@ -6,7 +6,12 @@ class Test00SanityCheck {
 
 	@Test
 	void test() {
-		// should pass
+		
 	}
+	@Test
+	void should_Return_True(){
+		
+	}
+	
 
 }
