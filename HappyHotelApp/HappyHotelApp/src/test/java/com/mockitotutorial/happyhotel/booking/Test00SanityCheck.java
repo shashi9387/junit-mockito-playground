@@ -12,6 +12,6 @@ class Test00SanityCheck {
 	void should_Return_True(){
 		
 	}
-	
+	@Test
 
 }
